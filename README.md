@@ -36,22 +36,7 @@ The program uses the following grading system:
 3. Open a terminal or command prompt.
 4. Navigate to the directory containing the downloaded or copied file.
 5. Compile the code using the following command:
-
-   ```
-   gcc -o SGPA_CALCULATOR main.c
-   ```
-
 6. Run the program:
-
-   ```
-   ./SGPA_CALCULATOR
-   ```
-
 7. Follow the prompts to enter the necessary information for each course.
 8. The program will calculate and display your SGPA.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). By using or contributing to this project, you agree to the terms of this license.
-```
 
